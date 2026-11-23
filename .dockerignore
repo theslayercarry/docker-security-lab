@@ -1,0 +1,9 @@
+.git
+.github
+.gitignore
+node_modules/
+secrets*.txt
+secrets*.gpg
+trivy-report.json
+.env
+.env.*
